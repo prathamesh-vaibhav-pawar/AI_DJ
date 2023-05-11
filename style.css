@@ -1,0 +1,24 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+}
+.Speed_div{
+    float: left;
+}
+.Volume_div{
+    float: right;
+}
+.Img_volume,.Img_speed{
+    width: 200px;
+    border-radius: 100px;
+}
+body{
+    background-size:cover;
+}
+.Play_btn{
+    width: 90px;
+}
+canvas{
+    border:solid,white,2px;
+    border-radius: 20px;
+}
